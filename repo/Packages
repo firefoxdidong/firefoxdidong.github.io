@@ -1,22 +1,4 @@
 Package: com.pwn20wnd.noplsocsp
-Version: 1.0-1+debug
-Architecture: iphoneos-arm
-Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
-Installed-Size: 140
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: bash, cy+cpu.arm64
-Filename: ./debs/com.pwn20wnd.noplsocsp_1.0-1+debug_iphoneos-arm.deb
-Size: 6026
-MD5sum: f084704d1fdb410c4a088b1a4f9cc365
-SHA1: 30348f11c514fc47d750f2b925214e3e028fd33c
-SHA256: ed6f871109d5e11fd7eb158b2e715e83e94071afd2b297a2774dad096d29b615
-Section: System
-Description: Blocks the Apple OCSP servers to block the certificates from getting revoked.
-Tag: role::hacker
-Author: Pwn20wnd <pwn20wndstuff@gmail.com>
-Name: NoPlsOCSP
-
-Package: com.pwn20wnd.noplsocsp
 Version: 1.0-2+debug
 Architecture: iphoneos-arm
 Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
@@ -52,3 +34,19 @@ Tag: role::hacker
 Author: Pwn20wnd <pwn20wndstuff@gmail.com>
 Name: NoPlsOCSP
 
+Package: com.foxfort.translomatic
+Name: Translomatic
+Version: 2.3.4
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.2), applist
+Filename: ./debs/com.foxfort.translomatic_2.3.4_iphoneos-arm.deb
+Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic
+Installed-Size: 2800
+MD5sum: 4d9d7f8efa89036f3a9d6fdbd8546768
+SHA1: ed3444ca691b871ff7d004ec2a3bece65107b4e8
+SHA256: 8e7a1215160221d7d33a97867e5976c3a63e2f4cce5031f6a46cf892ac2f6318
+Author: FoxfortMobile
+Maintainer: FoxfortMobile
+Description: Quickly translate any text
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
