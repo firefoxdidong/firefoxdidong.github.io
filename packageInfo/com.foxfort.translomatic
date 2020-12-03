@@ -3,7 +3,7 @@
 	"desc_short": "Dịch nhanh mọi văn bản",
 	"desc_long": "Cần dịch nhanh một số văn bản? Chỉ cần chọn văn bản mong muốn và chọn Translomatic từ chính menu chọn. Đơn giản vậy thôi! Nó hỗ trợ hơn 100 ngôn ngữ, vì vậy đảm bảo bạn sẽ tìm thấy ngôn ngữ của mình ở đó. Với hỗ trợ hạng nhất cho Twitter, Discord và Messenger, việc sử dụng Translomatic trong các ứng dụng này thật dễ dàng! <br><br>Định cấu hình các tùy chọn từ cài đặt.",
 	"compatitle": "iOS 11, 12 và 13",
-	"changelog": "<strong>2.3.4</strong>&nbsp;: Đã thêm hỗ trợ cho ứng dụng Line Messenger.",
+	"changelog": "<strong>2.3.4</strong> &nbsp; : Đã thêm hỗ trợ cho ứng dụng Line Messenger.",
 	"screenshot": "<div style='text-align:center;'><a href='https://repo.packix.com/api/Packages/5cd5a52039f317001a4bb961/screenshots/5cd5a572a04f90001a688ca5/download?size=medium' target='_blank'><img width=95% src='https://repo.packix.com/api/Packages/5cd5a52039f317001a4bb961/screenshots/5cd5a572a04f90001a688ca5/download?size=medium'/></a><a href='https://repo.packix.com/api/Packages/5cd5a52039f317001a4bb961/screenshots/5cd5a597ea131b001a15e493/download?size=medium' target='_blank'><img width=95% src='https://repo.packix.com/api/Packages/5cd5a52039f317001a4bb961/screenshots/5cd5a597ea131b001a15e493/download?size=medium'/></a><br></div>",
 	"open": true,
 }
