@@ -1,1 +1,0 @@
-bash -c "cd /mnt/d/Documents/GitHub/firefoxdidong.github.io; ./update.sh"
