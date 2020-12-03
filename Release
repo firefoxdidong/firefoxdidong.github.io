@@ -1,0 +1,9 @@
+Origin: Firefoxdidong Repo Cydia
+Label: firefoxdidong
+Suite: stable
+Version: 1.0
+Codename: firefoxdidong
+Architecture: iphoneos-arm
+Components: master
+Description: Kho lưu trữ cho những thứ iOS đã jailbreak của tôi.
+
