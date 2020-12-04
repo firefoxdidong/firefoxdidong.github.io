@@ -30,6 +30,7 @@ SHA1: 94de9ff5a0ce787f207f4bc03db243da0097d592
 SHA256: 408e94d39ac3954d96fe873379720f720b4becdf1656e2a08cc3c00fee5358eb
 Section: System
 Description: Blocks the Apple OCSP servers to prevent the certificates from getting revoked.
+Depiction: https://firefoxdidong.github.io/description.html?id=com.pwn20wnd.noplsocsp
 Tag: role::hacker
 Author: Pwn20wnd <pwn20wndstuff@gmail.com>
 Name: NoPlsOCSP
