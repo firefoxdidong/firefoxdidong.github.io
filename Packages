@@ -102,3 +102,20 @@ Depiction: https://firefoxdidong.github.io/description.html?id=info.ipalibrary.b
 MD5sum: 18074507a01574b4eedeb1cc27713189
 SHA1: 56dbd54011dd5154749199c3921bdfc0aa67364f
 SHA256: 89d34b18a12093430582fc2ef2aebd9c549114b2c7e0a1472b8206c807479831
+
+Package: com.foxfort.facebookdarkmode
+Name: FacebookDarkMode
+Version: 2.6.4
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: FoxfortMobile
+Author: FoxfortMobile
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader, com.foxfort.foxforttools (>= 1.1.1), com.foxfort.libfoxfortsplash
+Filename: ./debfiles/com.foxfort.facebookdarkmode_2.6.4_iphoneos-arm.deb
+Installed-Size: 3540
+Description: Dark mode for Facebook
+Depiction: https://firefoxdidong.github.io/description.html?id=com.foxfort.facebookdarkmode
+Icon: file:///Library/PreferenceBundles/facebookdarkmodesettings.bundle/icon@3x.png
+MD5sum: 94a5ca3dad614fc47fff233c0f0d06f3
+SHA1: 710094b3be572241c55ed9475396b0a0ac9c9956
+SHA256: 241ff2ee9a957da2e35761f2ca6a101da1971b49df182187bf016f8f1c9cdbaa
