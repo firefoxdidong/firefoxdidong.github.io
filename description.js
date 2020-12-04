@@ -101,7 +101,7 @@ function openSection(sectionName)
 			var current_url_path = window.location.href.slice(0, window.location.href.lastIndexOf('/'));
 			urlOpen = current_url_path+"/description.html?id="+dicNow.package;
 		}		
-		sectionContent +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\""+encodeURI(sectionName)+".png\" alt=\"\" srcset=\""+encodeURI(sectionName)+".png 2x, "+encodeURI(sectionName)+".png 3x\" class=\"icon\"/><label>"+dicNow.name+" Phiên bản "+dicNow.version+"</label></a></li>";
+		sectionContent +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\""+encodeURI(sectionName)+".png\" alt=\"\" srcset=\""+encodeURI(sectionName)+".png 2x, "+encodeURI(sectionName)+".png 3x\" class=\"icon\"/><label>"+dicNow.name+" v"+dicNow.version+"</label></a></li>";
 	}
 	
 	$("#browser").html(sectionContent);
@@ -151,7 +151,7 @@ function loadRecentUpdates()
 			var current_url_path = window.location.href.slice(0, window.location.href.lastIndexOf('/'));
 			urlOpen = current_url_path+"/description.html?id="+allPackages[dicNow].package;
 		}				
-		htmlnews +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\""+encodeURI(allPackages[dicNow].section)+".png\" alt=\"\" srcset=\""+encodeURI(allPackages[dicNow].section)+".png 2x, "+encodeURI(allPackages[dicNow].section)+".png 3x\" class=\"icon\"/><label>"+allPackages[dicNow].name+" v"+allPackages[dicNow].version+"</label></a></li>";
+		htmlnews +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\""+encodeURI(allPackages[dicNow].section)+".png\" alt=\"\" srcset=\""+encodeURI(allPackages[dicNow].section)+".png 2x, "+encodeURI(allPackages[dicNow].section)+".png 3x\" class=\"icon\"/><label>"+allPackages[dicNow].name+" Phiên bản "+allPackages[dicNow].version+"</label></a></li>";
 	}
 	$("#updates").html(htmlnews);
 }
