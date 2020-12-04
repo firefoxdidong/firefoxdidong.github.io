@@ -47,6 +47,7 @@ Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.apple
 Installed-Size: 2800
 Description: Quickly translate any text
 Depiction: https://firefoxdidong.github.io/description.html?id=com.foxfort.translomatic
+Information:
 Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
 MD5sum: 4d9d7f8efa89036f3a9d6fdbd8546768
 SHA1: ed3444ca691b871ff7d004ec2a3bece65107b4e8
