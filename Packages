@@ -46,6 +46,7 @@ Filename: ./debfiles/com.foxfort.translomatic_2.3.4_iphoneos-arm.deb
 Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic
 Installed-Size: 2800
 Description: Quickly translate any text
+Depiction: https://firefoxdidong.github.io/description.html?id=com.foxfort.translomatic
 Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
 MD5sum: 4d9d7f8efa89036f3a9d6fdbd8546768
 SHA1: ed3444ca691b871ff7d004ec2a3bece65107b4e8
