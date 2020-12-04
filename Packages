@@ -84,4 +84,21 @@ Description: Kernel level jailbreak detection bypass.
 Depiction: https://firefoxdidong.github.io/description.html?id=jp.akusio.kernbypass
 MD5sum: d8f11bd2b2e85b0034318b48b21f7d79
 SHA1: 1f0b964c4ed4ff15ceb3d12e974528695090c993
-SHA256: 	2148d1b3f39a77ea65adbebc4aaa970241a165aae8cf3187232c3f028d9a25f0
+SHA256: 2148d1b3f39a77ea65adbebc4aaa970241a165aae8cf3187232c3f028d9a25f0
+
+Package: info.ipalibrary.bypasstechcombanksmartotp
+Name: Bypass App Techcombank
+Version: 1.1.6.0-7
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: TTJB Team <admin@thuthuatjb.com>
+Author: IPALibrary <tuanbeo22061@hotmail.com>
+Depends: mobilesubstrate, com.thuthuatjb.iconrepo
+Filename: ./debfiles/info.ipalibrary.bypasstechcombanksmartotp_1.1.6.0-7_iphoneos-arm.deb
+Icon: file:///Library/IconRepo/tinhchinh.png
+Tag: purpose::extension
+Description: Bypass Techcombank SmartOTP và TCB OTP & Softtoken
+Depiction: https://firefoxdidong.github.io/description.html?id=info.ipalibrary.bypasstechcombanksmartotp
+MD5sum: 18074507a01574b4eedeb1cc27713189
+SHA1: 56dbd54011dd5154749199c3921bdfc0aa67364f
+SHA256: 89d34b18a12093430582fc2ef2aebd9c549114b2c7e0a1472b8206c807479831
