@@ -1,0 +1,9 @@
+{
+	"name": "KernBypass",
+	"desc_short": null,
+	"desc_long": "Kernel level jailbreak detection bypass.",
+	"compatitle": "iOS 12 và 13",
+	"changelog": "<strong>0.0.3</strong>&nbsp;: Kernel level jailbreak detection bypass.",
+	"screenshot": null,
+	"open": true,
+}

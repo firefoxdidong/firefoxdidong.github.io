@@ -69,3 +69,19 @@ Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
 MD5sum: 4d9d7f8efa89036f3a9d6fdbd8546768
 SHA1: ed3444ca691b871ff7d004ec2a3bece65107b4e8
 SHA256: 8e7a1215160221d7d33a97867e5976c3a63e2f4cce5031f6a46cf892ac2f6318
+
+Package: jp.akusio.kernbypass
+Name: KernBypass
+Version: 0.0.3
+Section: System
+Architecture: iphoneos-arm
+Maintainer: akusio
+Author: akusio
+Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
+Filename: ./debfiles/jp.akusio.kernbypass_0.0.3_iphoneos-arm.deb
+Installed-Size: 544
+Description: Kernel level jailbreak detection bypass.
+Depiction: https://firefoxdidong.github.io/description.html?id=jp.akusio.kernbypass
+MD5sum: d8f11bd2b2e85b0034318b48b21f7d79
+SHA1: 1f0b964c4ed4ff15ceb3d12e974528695090c993
+SHA256: 	2148d1b3f39a77ea65adbebc4aaa970241a165aae8cf3187232c3f028d9a25f0
