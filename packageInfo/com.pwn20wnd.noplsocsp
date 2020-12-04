@@ -1,0 +1,9 @@
+{
+	"name": "NoPlsOCSP",
+	"desc_short": "Blocks the Apple OCSP",
+	"desc_long": "Blocks the Apple OCSP servers to block the certificates from getting revoked.",
+	"compatitle": "iOS 11, 12 và 13",
+	"changelog": "<strong>1.0-3+debug</strong><br><br><strong>1.0-2+debug</strong><br><br>",
+	"screenshot": null,
+	"open": true,
+}
