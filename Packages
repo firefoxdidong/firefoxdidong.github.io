@@ -127,9 +127,7 @@ Section: System
 Maintainer: Matt Clarke <matt@incendo.ws>
 Architecture: iphoneos-arm
 Author: Matt Clarke <matt@incendo.ws>
-dev: Matt Clarke <matt@incendo.ws>
 Depends: firmware (>= 9.0)
-Priority: optional
 Replaces: com.matchstic.Extender-Installer
 Provides: com.matchstic.Extender-Installer
 Filename: ./debfiles/com.matchstic.reprovision_0.5.2~EOL_iphoneos-arm.deb
