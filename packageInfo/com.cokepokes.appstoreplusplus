@@ -1,0 +1,9 @@
+{
+	"name": "AppStore++",
+	"desc_short": null,
+	"desc_long": "Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1",
+	"compatitle": "iOS 11, 12 và 13",
+	"changelog": "<strong>0.9.10</strong>&nbsp;: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1",
+	"screenshot": null,
+	"open": true,
+}
