@@ -122,14 +122,12 @@ SHA256: 241ff2ee9a957da2e35761f2ca6a101da1971b49df182187bf016f8f1c9cdbaa
 
 Package: com.matchstic.reprovision
 Name: ReProvision
-Version: 0.5.2~EOL
+Version: 0.5.2
 Section: System
 Maintainer: Matt Clarke <matt@incendo.ws>
 Architecture: iphoneos-arm
 Author: Matt Clarke <matt@incendo.ws>
 Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer
-Provides: com.matchstic.Extender-Installer
 Filename: ./debfiles/com.matchstic.reprovision_0.5.2~EOL_iphoneos-arm.deb
 Description: Re-sign applications on your device
 Depiction: https://firefoxdidong.github.io/description.html?id=com.matchstic.reprovision
