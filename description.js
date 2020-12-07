@@ -65,7 +65,7 @@ function loadPackageInfo() {
 				$("#compatitle").html(decodeResp.compatitle);
 				var ios_ver = iOSVersion();
 				if(ios_ver) {
-					$(".cur_ios").html("Current iOS: "+ios_ver);
+					$(".cur_ios").html("iOS Của bạn là : "+ios_ver);
 				}
 			}
 			if(decodeResp.changelog) {
