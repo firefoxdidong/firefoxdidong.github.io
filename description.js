@@ -143,7 +143,7 @@ function loadRecentUpdates()
 	var count = 0;
 	for (var dicNow in allPackages) {
 		count++;
-		if(count > 10) {
+		if(count > 24) {
 			break;
 		}
 		var urlOpen = "cydia://package/"+allPackages[dicNow].package;
