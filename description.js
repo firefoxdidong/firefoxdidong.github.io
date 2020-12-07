@@ -23,7 +23,7 @@ function toogleTheme()
 $(function() {
   $("li").on("click",function() {
 	  if(this.id=="dnt") {
-		  $("#dnt_txt").html("You can donate USD via PayPal mail: lequangngocson"+"@"+"gmail.com");
+		  $("#dnt_txt").html("You can donate USD via PayPal mail: julioverne"+"@"+"icloud.com");
 	  }
   });
 });
@@ -33,7 +33,7 @@ function loadPackageInfo() {
 	var form_url = current_url_path+"/packageInfo/"+urlSelfParts[1];
 	if (navigator.userAgent.search(/Cydia/) == -1) {
 		$("#showAddRepo_").show();
-		$("#open_cydia").attr("href","cydia://url/https://cydia.saurik.com/api/share#?source=https://firefoxdidong.github.io/&package="+urlSelfParts[1]);
+		$("#open_cydia").attr("href","cydia://url/https://cydia.saurik.com/api/share#?source=https://julioverne.github.io/&package="+urlSelfParts[1]);
 	}
 	$.ajax({
 		url: form_url,
@@ -143,7 +143,7 @@ function loadRecentUpdates()
 	var count = 0;
 	for (var dicNow in allPackages) {
 		count++;
-		if(count > 5) {
+		if(count > 24) {
 			break;
 		}
 		var urlOpen = "cydia://package/"+allPackages[dicNow].package;
