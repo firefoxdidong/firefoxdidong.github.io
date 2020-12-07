@@ -1,6 +1,12 @@
-[{"name":"Translomatic","time":1607025180,"package":"com.foxfort.translomatic","version":"2.3.4","section":"Tweaks","size":1698122},{"name":"NoPlsOCSP","time":1607070815,"package":"com.pwn20wnd.noplsocsp","version":"1.0-3+debug","section":"System","size":6032},{"name":"KernBypass","time":1607028716,"package":"jp.akusio.kernbypass","version":"0.0.3","section":"System","size":15114},{"name":"Bypass App Techcombank","time":1607075719,"package":"info.ipalibrary.bypasstechcombanksmartotp","version":"1.1.6.0-7","section":"Tweaks","size":204370},{"name":"FacebookDarkMode","time":1607113334,"package":"com.foxfort.facebookdarkmode","version":"2.6.4","section":"Tweaks","size":2090168},{"name":"ReProvision","time":1607283908,"package":"com.matchstic.reprovision","version":"0.5.2","section":"System","size":14406348},{"name":"AppStore++","time":1607286609,"package":"com.cokepokes.appstoreplusplus","version":"0.9.10","section":"Tweaks","size":608126}]
-
-
+[{"name":"Translomatic","time":1607025180,"package":"com.foxfort.translomatic","version":"2.3.4","section":"Tweaks","size":1698122},
+{"name":"NoPlsOCSP","time":1607070815,"package":"com.pwn20wnd.noplsocsp","version":"1.0-3+debug","section":"System","size":6032},
+{"name":"KernBypass","time":1607028716,"package":"jp.akusio.kernbypass","version":"0.0.3","section":"System","size":15114},
+{"name":"Bypass App Techcombank","time":1607075719,"package":"info.ipalibrary.bypasstechcombanksmartotp","version":"1.1.6.0-7","section":"Tweaks","size":204370},
+{"name":"FacebookDarkMode","time":1607113334,"package":"com.foxfort.facebookdarkmode","version":"2.6.4","section":"Tweaks","size":2090168},
+{"name":"ReProvision","time":1607283908,"package":"com.matchstic.reprovision","version":"0.5.2","section":"System","size":14406348},
+{"name":"AppStore++","time":1607286609,"package":"com.cokepokes.appstoreplusplus","version":"0.9.10","section":"Tweaks","size":608126},
+{"name":"Lien Minh Toc Chien VNG","time":1607364518,"package":"com.firefoxdidong.lienminhtocchienvng","version":"1.1.1+LMTC","section":"Tweaks","size":2418366}
+]
 
 
 
