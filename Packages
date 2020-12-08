@@ -122,7 +122,7 @@ SHA256: 241ff2ee9a957da2e35761f2ca6a101da1971b49df182187bf016f8f1c9cdbaa
 
 Package: com.matchstic.reprovision
 Name: ReProvision
-Version: 0.5.2
+Version: 0.5.2~EOL
 Section: System
 Maintainer: Matt Clarke <matt@incendo.ws>
 Architecture: iphoneos-arm

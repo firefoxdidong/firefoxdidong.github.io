@@ -3,7 +3,7 @@
 	"desc_short": null,
 	"desc_long": "Re-sign applications on your device.",
 	"compatitle": "iOS >= 9.0",
-	"changelog": "<strong>0.5.2</strong>&nbsp;: Đăng ký lại các ứng dụng trên thiết bị của bạn.",
+	"changelog": "<strong>0.5.2~EOL</strong>&nbsp;: Đăng ký lại các ứng dụng trên thiết bị của bạn.",
 	"screenshot": null,
 	"open": true,
 }
