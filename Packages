@@ -145,6 +145,7 @@ Maintainer: CokePokes
 Author: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Filename: ./debfiles/com.cokepokes.appstoreplusplus_0.9.10_iphoneos-arm.deb
+Size: 608126
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
 Depiction: https://firefoxdidong.github.io/description.html?id=com.cokepokes.appstoreplusplus
 MD5sum: cdb73a24e5db29a6259cde92aacfaa89
