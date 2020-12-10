@@ -167,3 +167,24 @@ Depiction: https://firefoxdidong.github.io/description.html?id=com.firefoxdidong
 MD5sum: ae5bd4e3f67ef0a76a376f5f1ae96c2b
 SHA1: 932b9e9005843030eabf3ec214f560c4181a38d5
 SHA256: 996e66fe0b768a3f940030b42da240d3b4b6f3dfc234bbdefaffcc074b27215b
+
+Package: com.johncoates.Flex3
+Name: Flex 3
+Version: 3~EarlyAccess4
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: firefoxdidong.github.io
+Author: John Coates <john@johncoates.me>
+Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap
+Recommended: com.modmyi.libswift4 (>= 4.0.3)
+Filename: ./debfiles/com.johncoates.flex3_3~EarlyAccess4_iphoneos-arm.deb
+Size: 12480092
+Installed-Size: 57210
+Description: Phát triển các chỉnh sửa của riêng bạn và chia sẻ chúng trên Đám mây cộng đồng Flex
+Depiction: https://firefoxdidong.github.io/description.html?id=com.johncoates.Flex3
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9, compatible::ios10
+Icon: file:///Applications/Flex.app/AppIcon29x29@2x.png
+MD5sum: 100aa80ca81f53bf20251f2aac724f7a
+SHA1: d7f1e729546546b631c159f6c8661df861b8ac6a
+SHA256: d648c351186e46020ede6106a952c6eec1c34776083e4e30109bc84e4c188e31
