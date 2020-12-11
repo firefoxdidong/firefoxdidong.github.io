@@ -189,33 +189,33 @@ MD5sum: 100aa80ca81f53bf20251f2aac724f7a
 SHA1: d7f1e729546546b631c159f6c8661df861b8ac6a
 SHA256: d648c351186e46020ede6106a952c6eec1c34776083e4e30109bc84e4c188e31
 
-Package: com.firefoxdidong.milkyway
+Package: jp.akusio.milkyway
 Name: MilkyWay
-Version: 0.1.4+Final
+Version: 0.1.4Final
 Section: Tweaks
 Architecture: iphoneos-arm
-Maintainer: Edit by firefoxdidong.github.io
+Maintainer: akusio <akusio-report@neko2.net>
 Author: akusio <akusio-report@neko2.net>
-Depends: mobilesubstrate, com.firefoxdidong.backgrounderaction11 | com.firefoxdidong.backgrounderaction12
-Filename: ./debfiles/com.firefoxdidong.milkyway_0.1.4+Final_iphoneos-arm.deb
+Depends: mobilesubstrate, jp.akusio.backgrounderaction11 | jp.akusio.backgrounderaction12
+Filename: ./debfiles/jp.akusio.milkyway_0.1.4Final_iphoneos-arm.deb
 Installed-Size: 208
 Description: multitasking for iOS.
-Depiction: https://firefoxdidong.github.io/description.html?id=com.firefoxdidong.milkyway
-MD5sum: a96b44da55c2c2ba08034100dc156cf1
-SHA1: 46d56a7fba9cbb2f737cbd05d5156ac1193b0a8e
-SHA256: 628587ed81a236e67b66113a1312334f77b445ae8b32126ce06b148359d93afe
+Depiction: https://firefoxdidong.github.io/description.html?id=jp.akusio.milkyway
+MD5sum: ea40860badad99762321bdab294f62ed
+SHA1: b0e0b988e27eb78ed8834a80d00ccf7588ba2a0d
+SHA256: 24d92628ffc101d0eb0124202f97f62d23587617e23a7e1076528c6e4bc9b12b
 
-Package: com.firefoxdidong.backgrounderaction12
+Package: jp.akusio.backgrounderaction12
 Name: BackgrounderAction for CCSupport
 Version: 0.1.0
 Section: Tweaks
 Architecture: iphoneos-arm
-Maintainer: Edit by firefoxdidong.github.io
+Maintainer: akusio <akusio-report@neko2.net>
 Author: akusio <akusio-report@neko2.net>
 Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debfiles/com.firefoxdidong.backgrounderaction12_0.1.0_iphoneos-arm.deb
+Filename: ./debfiles/jp.akusio.backgrounderaction12_0.1.0_iphoneos-arm.deb
 Installed-Size: 276
 Description: Add "Toggle Background Mode" action to ControlCenter.
-MD5sum: fc7302dd2f47ab1e51a2232010f9fcf8
-SHA1: 0c0f38293625ea0706a6af5db6282a5e0aff8fcf
-SHA256: b42665ae8a3e98a4ccdf4cbd6d108573a46d2b8ea38a8109cd4ab896ffce8c80
+MD5sum: 5bd11ea327f06e211d69970be0050599
+SHA1: 59b9f3d6c54785e92c3108af93e46ebd68056d82
+SHA256: 1839cbe70dee58576393c2c06763eb542ac24122be67502366b87f7c71345943
