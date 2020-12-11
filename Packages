@@ -201,9 +201,9 @@ Filename: ./debfiles/com.firefoxdidong.milkyway_0.1.4+Final_iphoneos-arm.deb
 Installed-Size: 208
 Description: multitasking for iOS.
 Depiction: https://firefoxdidong.github.io/description.html?id=com.firefoxdidong.milkyway
-MD5sum: f2890b52a22a9f1adde8d7aac0d7aba0
-SHA1: be6e37a2d93ab9302365794541a6335c05436f83
-SHA256: 251ae35a257c6a2e0dd2b57a83cb9a67c0f669889f0b3beb483b66056e1d902d
+MD5sum: a96b44da55c2c2ba08034100dc156cf1
+SHA1: 46d56a7fba9cbb2f737cbd05d5156ac1193b0a8e
+SHA256: 628587ed81a236e67b66113a1312334f77b445ae8b32126ce06b148359d93afe
 
 Package: com.firefoxdidong.backgrounderaction12
 Name: BackgrounderAction for CCSupport
@@ -216,6 +216,6 @@ Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: ./debfiles/com.firefoxdidong.backgrounderaction12_0.1.0_iphoneos-arm.deb
 Installed-Size: 276
 Description: Add "Toggle Background Mode" action to ControlCenter.
-MD5sum: ef56c70784274657fcff3317b4f7142d
-SHA1: 7dbfa5281448ac4acbb18521bdf3ebf765bf6039
-SHA256: 183e545b96f53b3ad14eb309f446ba8d7d6d08069948a0e6125b801990bd515c
+MD5sum: fc7302dd2f47ab1e51a2232010f9fcf8
+SHA1: 0c0f38293625ea0706a6af5db6282a5e0aff8fcf
+SHA256: b42665ae8a3e98a4ccdf4cbd6d108573a46d2b8ea38a8109cd4ab896ffce8c80
