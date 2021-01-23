@@ -152,22 +152,6 @@ MD5sum: cdb73a24e5db29a6259cde92aacfaa89
 SHA1: cfcafb1f2e2d313832e9c0e4ba665c3f6c1b5ddf
 SHA256: eeafa26d468f43a4019cefa93dc03516b71edc09479d986bf3f89b5860688ae2
 
-Package: com.firefoxdidong.lienminhtocchienvng
-Name: Lien Minh Toc Chien Hack Maps
-Version: 2.0.0+LMTC
-Section: Tweaks
-Architecture: iphoneos-arm
-Maintainer: Edit by LQNS
-Author: Laxus
-Depends: mobilesubstrate
-Filename: ./debfiles/com.firefoxdidong.lienminhtocchienvng_2.0.0+LMTC_iphoneos-arm.deb
-Size: 2418330
-Description: Lien Minh Toc Chien edit gui Tran Lenh Cuong
-Depiction: https://firefoxdidong.github.io/description.html?id=com.firefoxdidong.lienminhtocchienvng
-MD5sum: 4469555dfec551f542ceb096d44425cb
-SHA1: f74903a37d3fa9e73d93667f84eb35b5a31c3534
-SHA256: c777054eddf0ec9c9cff6ce20b454417a8f2c9e17e5b791eb80b93c9ec09e127
-
 Package: com.johncoates.Flex3
 Name: Flex 3
 Version: 3~EarlyAccess4
@@ -219,18 +203,3 @@ Description: Add "Toggle Background Mode" action to ControlCenter.
 MD5sum: 15173fd99097de7fbd73181cce6369ee
 SHA1: 1d619f4d3bf01e02a709bb53e9bde0b2de0c8788
 SHA256: 27b29176ad2aaf9cc46bc5c21ac2743da9042565ad620523a85570a34d397259
-
-Package: jp.akusio.backgrounderaction11
-Name: Backgrounder Action
-Version: 0.0.8
-Section: Tweaks
-Architecture: iphoneos-arm
-Maintainer: akusio <akusio-report@neko2.net>
-Author: akusio <akusio-report@neko2.net>
-Depends: mobilesubstrate, libactivator (>=1.9.13~beta2), Firmware(>=11.0)
-Filename: ./debfiles/jp.akusio.backgrounderaction11_0.0.8_iphoneos-arm.deb
-Installed-Size: 72
-Description: *Currnetly in Beta* Add "Toggle Background Mode" action to Activator.
-MD5sum: 4e5f9a3bf7181ab56b9f92c62d052a2b
-SHA1: db4126586d28fec526217d49f2f1ca06920705f2
-SHA256: ea95a4ff7b088375985dae7df02a79e6c006d911acd819c67eb60097b7da6a32
