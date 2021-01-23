@@ -1,9 +1,9 @@
 {
 	"name": "FacebookDarkMode",
 	"desc_short": "Dark Mode for Facebook App",
-	"desc_long": "Dark Mode for Facebook App. Phiên bản 2.6.4 là phiên bản cuối cùng support Dark cho Facebook iOS 12.x.x đổ lui.<br><br>Định cấu hình các tùy chọn từ cài đặt và bạn cần mua key trên repo.packix.com mới sử dụng được.",
+	"desc_long": "Dark Mode for Facebook App. Phiên bản 2.6.5 là phiên bản đặc biệt cuối cùng support Dark cho Facebook iOS 12.x.x đổ lui.<br><br>Định cấu hình các tùy chọn từ cài đặt và bạn cần mua key trên repo.packix.com mới sử dụng được.",
 	"compatitle": "iOS 12 Only",
-	"changelog": "<strong>2.6.4</strong>&nbsp;: Bản cập nhật cuối cùng cho iOS 12.x.x",
+	"changelog": "<strong>2.6.4</strong>&nbsp;: Bản cập nhật cuối cùng cho iOS 12.x.x<br><strong>2.6.5</strong>&nbsp;: Bản cập nhật đặc biệt cuối cùng cho iOS 12.x.x",
 	"screenshot": "<div style='text-align:center;'><a href='https://repo.packix.com/api/Packages/5adaea7235c4b17817d16dba/screenshots/5cc7af8a774b0b0018f3572b/download?size=medium' target='_blank'/><img width=95% src='https://repo.packix.com/api/Packages/5adaea7235c4b17817d16dba/screenshots/5cc7af8a774b0b0018f3572b/download?size=medium'/></a><a href='https://repo.packix.com/api/Packages/5adaea7235c4b17817d16dba/screenshots/5cc7af8a774b0b0018f35762/download?size=medium' target='_blank'/><img width=95% src='https://repo.packix.com/api/Packages/5adaea7235c4b17817d16dba/screenshots/5cc7af8a774b0b0018f35762/download?size=medium'/></a><a href='https://repo.packix.com/api/Packages/5adaea7235c4b17817d16dba/screenshots/5cc7af93774b0b0018f36509/download?size=medium' target='_blank'/><img width=95% src='https://repo.packix.com/api/Packages/5adaea7235c4b17817d16dba/screenshots/5cc7af93774b0b0018f36509/download?size=medium'/></a><a href='https://repo.packix.com/api/Packages/5adaea7235c4b17817d16dba/screenshots/5cc7af97774b0b0018f36b1c/download?size=medium' target='_blank'/><img width=95% src='https://repo.packix.com/api/Packages/5adaea7235c4b17817d16dba/screenshots/5cc7af97774b0b0018f36b1c/download?size=medium'/></a><br></div>",
 	"open": true,
 }
