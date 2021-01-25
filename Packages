@@ -222,3 +222,22 @@ Description: Add "Toggle Background Mode" action to ControlCenter.
 MD5sum: 15173fd99097de7fbd73181cce6369ee
 SHA1: 1d619f4d3bf01e02a709bb53e9bde0b2de0c8788
 SHA256: 27b29176ad2aaf9cc46bc5c21ac2743da9042565ad620523a85570a34d397259
+
+Package: com.tigisoftware.filza64bit
+Name: Filza File Manager 64-bit
+Version: 3.8.0-24
+Section: Utilities
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Author: TIGI Software
+Depends: zip, unzip, gzip, unrar, p7zip
+Filename: ./debfiles/com.tigisoftware.filza64bit_3.8.0-24_iphoneos-arm.deb
+Installed-Size: 21680
+Size: 8360824
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Depiction: https://firefoxdidong.github.io/description.html?id=com.tigisoftware.filza64bit
+Conflicts: com.tigisoftware.filza
+MD5sum: 19d9a1a731da869c042e8f4d53edced4
+SHA1: c2062f731fded8947933312fc6402466b49f5faf
+SHA256: 7718dae2b4fe37810d88d9cf3801d19ad3030713d95690ae992573c0dcf445d5
+SHA-384: 05e85df8d621ae5a87e0f5465c73445edb4762490481c40fd765833f3fe6c0be9350559e052e6f8c4102ae061f96f34c

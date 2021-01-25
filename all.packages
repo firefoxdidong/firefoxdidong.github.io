@@ -5,7 +5,8 @@
 {"name":"FacebookDarkMode","time":1611385644,"package":"com.foxfort.facebookdarkmode","version":"2.6.5","section":"Tweaks","size":248350},
 {"name":"ReProvision","time":1607413302,"package":"com.matchstic.reprovision","version":"0.5.2~EOL","section":"System","size":14406348},
 {"name":"AppStore++","time":1607414810,"package":"com.cokepokes.appstoreplusplus","version":"0.9.10","section":"Tweaks","size":608126},
-{"name":"Flex 3","time":1607629515,"package":"com.johncoates.Flex3","version":"3~EarlyAccess4","section":"Tweaks","size":12480092}
+{"name":"Flex 3","time":1607629515,"package":"com.johncoates.Flex3","version":"3~EarlyAccess4","section":"Tweaks","size":12480092},
+{"name":"Filza File Manager 64-bit","time":1611610224,"package":"com.tigisoftware.filza64bit","version":"3.8.0-24","section":"Utilities","size":8360824}
 ]
 
 
